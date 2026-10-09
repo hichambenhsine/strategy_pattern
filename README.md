@@ -33,7 +33,7 @@ A lightweight Java implementation of the Strategy Design Pattern, demonstrating 
 Clone the repository and navigate into the project folder:
 
 ```bash
-git clone https://github.com/your-username/strategy-pattern-demo.git
+git clone https://github.com/hichambenhsine/strategy-pattern-demo.git
 cd strategy-pattern-demo
 ```
 
